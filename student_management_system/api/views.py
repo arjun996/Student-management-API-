@@ -31,4 +31,3 @@ class StudentDetailAPIView(generics.RetrieveUpdateDestroyAPIView):
     lookup_url_kwarg = 'student_id'
 
 
-# Add more views for other endpoints as per the requirements
